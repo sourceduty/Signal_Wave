@@ -37,3 +37,5 @@ Moreover, incorporating nonlinear and coupled oscillators into the signal wave m
 [Programming](https://github.com/sourceduty/Programming)
 <br>
 [PyPi Studio](https://chatgpt.com/g/g-682fb476dd048191800bdbc557bd7e9a-pypi-studio)
+<br>
+[Math Tools](https://github.com/sourceduty/Math_Tools)
